@@ -2,4 +2,9 @@
 1-listit: This script display the contents list of the current directory.
 2-Bring me home: This script changes the working directory to the user’s home directory.
 3-listfiles: This script display current directory contents in a long format
-4-listmorefiles: This script display current directory contents, including hidden files starting with "."
+4-listmorefiles: This script display current directory contents, including
+hidden files starting with "."
+5-listfilesdigitonly: This script display current directory content
+-Long format
+-with user and group IDs displayed numerically
+-And hidden files (starting with .)
